@@ -1,3 +1,17 @@
+add to composer 
+
+dev-larav
+
+"repositories": [
+        { "type": "vcs", "url": "https://github.com/mohamedsharaf/payumlaravelpackage" }
+    ],
+    "require-all": true,
+
+    "require": {
+        "php": "^7.2.5",
+        "payum/payum-laravel-package": "dev-larav",
+        
+
 <h2 align="center">Supporting Payum</h2>
 
 Payum is an MIT-licensed open source project with its ongoing development made possible entirely by the support of community and our customers. If you'd like to join them, please consider:
